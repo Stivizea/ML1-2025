@@ -1,2 +1,5 @@
 # ML1-2025
 Classes and class projects done during the Machine Learning course for my master's degree
+All classes and projects are written in Spanish. However, the code and the results are clear and a good source of theoreticall matherial and applications for any spanish-speaking person looking to dive deeper into the machine learning field, specially since these lessons were taught by Professor Herman from Universidad de Medellín Colombia, an expert in the field of artificial inteligence and deep learning for PhD students.
+The course includes all the basic and advanced linear algebra, multivariable and matrix calculus needed for the basic mathematicall understanding of machine learning, examples of classification using linear, polynomial and logistic regression before giving and extensive introduction into the history of neural networks and their mathematical framework, including forward and backwards propagation,starting with supervised methods, and methods for evaluating effectiveness of the neural network, and finally, some lessons on unsupervised learning methods. 
+
